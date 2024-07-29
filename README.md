@@ -2,11 +2,9 @@
 
 link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
 
-```
 
 Tutorial Video :
-
-link  [Youtube](https://www.youtube.com/@IzzyTSN)
+[Youtube](https://www.youtube.com/@IzzyTSN)
 
 
 ## Steps
@@ -18,7 +16,7 @@ git clone https://github.com/AlluringPixel/Swisstronik-Deploy-Proxy.git
 ```
 
 ```bash
-cd swisstronik-deploy-proxy
+cd Swisstronik-Deploy-Proxy
 ```
 
 ### 2. Install Dependency
@@ -92,9 +90,3 @@ by :
 
 github : [Mnuralim](https://github.com/Mnuralim)
 
-
-```
-SWTRProxy = '0xea65D3f80d2253293a64e2f8DdF4CEC401823053'
-ProxyAdmin = '0x6a0baE5CF96d14e39FA9F5AdB4fadABb55B22E17'
-SWTRImplementation = '0xE4e93a474734E22A4f660EF1fE7aC3fc096E856c'
-```
