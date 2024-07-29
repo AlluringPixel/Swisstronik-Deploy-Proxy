@@ -4,14 +4,17 @@ link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
 
 ```
 
-Tutorial Video : [Youtube](https://www.youtube.com/@IzzyTSN)
+### Tutorial Video :
+```bash
+[Youtube](https://www.youtube.com/@IzzyTSN)
+```
 
 ## Steps
 
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Mnuralim/swisstronik-deploy-proxy.git
+git clone https://github.com/AlluringPixel/Swisstronik-Deploy-Proxy.git
 ```
 
 ```bash
